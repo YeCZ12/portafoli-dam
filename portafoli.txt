@@ -1,0 +1,24 @@
+==================================================
+PORTAFOLIO PERSONAL Y BITÁCORA DE DESARROLLO
+==================================================
+
+1. SOBRE MÍ
+-----------
+
+Nombre y apellidos: Yeray Contreras Zurita
+Ciclo: CFGS Desarrollo de Aplicaciones Multiplataforma (DAM)
+Presentación: [Escribe 3 o 4 líneas sobre ti, tus intereses en la informática...]
+
+2. HABILIDADES Y HERRAMIENTAS TÉCNICAS
+---------------------------------------
+
+- Sistemas operativos: Linux (Ubuntu/Debian), Windows
+- Control de versiones: Git, GitHub
+- Línea de comandos: Bash / Terminal
+- Entornos y herramientas: MySQL Workbench, DBengin, VS Code (Java)
+
+3. BITÁCORA DE PROYECTOS Y PRÁCTICAS
+-------------------------------------
+
+Práctica 01: Configuración del entorno y repositorio Git
+- Descripción: Creación del portafolio personal y configuración del control de versiones
