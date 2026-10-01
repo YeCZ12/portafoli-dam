@@ -22,3 +22,4 @@ Presentación: [Escribe 3 o 4 líneas sobre ti, tus intereses en la informática
 
 Práctica 01: Configuración del entorno y repositorio Git
 - Descripción: Creación del portafolio personal y configuración del control de versiones
+g
