@@ -16,31 +16,6 @@ A mesura que vagi avançant en els meus estudis, aniré **afegint nous projectes
 - 📚 Recopilar diferents treballs i pràctiques en un mateix lloc.
 - 🚀 Actualitzar el portfoli amb **nous projectes** a mesura que avanci en els meus estudis.
 
-## Tasques
-
-- [x] Crear el repositori del portfoli.
-- [x] Crear el fitxer `README.md`.
-- [x] Afegir un exemple de codi Java.
-- [ ] Afegir nous projectes al portfoli.
-
-## Instal·lació
-
-Per tenir aquest projecte en local, cal seguir aquests tres passos:
-
-1. Clonar el repositori de GitHub:
-
-git clone https://github.com/YeCZ12/portafoli-dam.git
-
-
-2. Entrar a la carpeta del projecte:
-
-cd portafoli-dam
-
-
-3. Obrir el projecte amb Visual Studio Code o un altre editor compatible.
-
-## Exemple de codi
-
 Aquest és un exemple d'un programa que he realitzat en **Java**. El programa simula un sistema d'aparcament amb diferents opcions: aparcament per hores, aparcament de dia complet, rentat de vehicle i recàrrega elèctrica.
 
 import java.util.Scanner;
